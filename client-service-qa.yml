@@ -1,3 +1,0 @@
-server:
-  port: ${PORT:8084}
-message: Teste client-service yml QA
