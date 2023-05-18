@@ -17,5 +17,5 @@ info:
   author: Luiz Delgado
   mail: luiz.delgadov@gmail.com
 server:
-  port: ${PORT:9999}
+  port: ${PORT:8888}
 message: Mensagem generica
