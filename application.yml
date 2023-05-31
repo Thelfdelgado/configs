@@ -18,4 +18,3 @@ info:
   mail: luiz.delgadov@gmail.com
 server:
   port: ${PORT:9999}
-message: Mensagem generica
